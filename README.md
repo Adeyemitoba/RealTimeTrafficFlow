@@ -20,8 +20,7 @@ pip install kafka-python matplotlib sqlite3 python-dotenv
 
 ## Clone the Repository
 
-git clone https://github.com/don4ye/SentimentStream.git
-cd SentimentStream
+git clone https://github.com/Adeyemitoba/RealTimeTrafficFlow.git
 
 ## Set Up Virtual Environment
 python -m venv .venv
